@@ -412,7 +412,7 @@
     },
     {
       "id": "proj-inactive-demo", "teamId": "ibrahimia", "name": "Blender Tutorials",
-      "members": [], "description": "This is an inactive project.",
+      "members": [], "description": "This is an inactive project.",  
       "minimumWork": "None", "baseSalary": 0,
       "startDate": "19-01-2025", "active": false,
       "maxMembers": 12,
